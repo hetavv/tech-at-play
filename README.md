@@ -1,5 +1,9 @@
 # Object Detection Comparison with YOLOv8
 
+This repository was created as part of assignment for computer vision role at tech-at-play
+
+
+
 ## Folder Structure
 
 ```plaintext
